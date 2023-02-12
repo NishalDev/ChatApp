@@ -1,4 +1,4 @@
-package com.example.jonnyb.smack
+package com.example.chatapp.Controller
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
